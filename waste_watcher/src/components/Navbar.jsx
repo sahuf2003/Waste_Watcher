@@ -5,9 +5,12 @@ import './style.css'
 const Navbar = () => (
     <header className='navbar'>
         <div className='title item'>wasteWatcher</div>
-        <div className='item'>About Us</div>
-        <div className='item'>Contact</div>
-        <div className='item'>Help</div>     
+        <div className='item'>Features</div>
+        <div className='item'>Mission</div>
+        <div className='item'>About</div>
+        <div className='item'>Logs</div>
+        <div className='item'>Team</div>
+        <div className='item'>Register/Login</div>     
 
     </header>
 );

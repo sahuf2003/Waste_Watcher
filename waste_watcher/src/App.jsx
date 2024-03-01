@@ -1,13 +1,13 @@
-import './App.css'
-import Navbar from './components/Navbar'
+import './App.css';
+import { Box } from 'theme-ui';
+import Navbar from './components/Navbar';
 
 function App() {
-
   return (
-    <>
-      <Navbar/>
-    </>
-  )
+    <Box mx={20}>
+      <Navbar />
+    </Box>
+  );
 }
 
-export default App
+export default App;
