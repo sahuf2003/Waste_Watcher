@@ -6,10 +6,7 @@ body {
     margin: 0;
   }
   
-  main {
-    margin: 16px;
-  }
-  
+/* Navbar Section*/
   .navbar {
     display: flex;
     align-items: center;
@@ -28,6 +25,13 @@ body {
   
   .navbar .item {
     padding: 16px 16px;
+    font-size: 20px;
     cursor: pointer;
     vertical-align: middle;
   }
+
+  .navbar a {
+    color: black; 
+    text-decoration: none; 
+  }
+

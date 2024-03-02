@@ -1,17 +1,17 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
 import './style.css'
+// import { Link } from 'react-router-dom';
+
 
 const Navbar = () => (
     <header className='navbar'>
-        <div className='title item'>wasteWatcher</div>
-        <div className='item'>Features</div>
-        <div className='item'>Mission</div>
-        <div className='item'>About</div>
-        <div className='item'>Logs</div>
-        <div className='item'>Team</div>
-        <div className='item'>Register/Login</div>     
-
+        <div className='title item'><a href="#hero">WasteWatcher</a></div>
+        <div className='item'><a href="#mission">Mission</a></div>
+        <div className='item'><a href="#features">Features</a></div>
+        {/* <div className='item'><Link to="/logs">Logs</Link></div> */}
+        <div className='item'><a href="#team">Team</a></div>
+        <div className='item'><a href="#auth">Register/Login</a></div>     
     </header>
 );
 
