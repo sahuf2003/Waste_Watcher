@@ -13,7 +13,6 @@ function App() {
     <Box mx={20}>
         <Navbar />
         <Hero/>
-        <Mission/>
         <Features/>
         <Mission />
         <Team/>
