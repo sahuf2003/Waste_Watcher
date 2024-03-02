@@ -11,7 +11,7 @@ const Navbar = () => (
         <div className='item'><a href="#features">Features</a></div>
         {/* <div className='item'><Link to="/logs">Logs</Link></div> */}
         <div className='item'><a href="#team">Team</a></div>
-        <div className='item'><a href="#auth">Register/Login</a></div>     
+        <div className='item'><a href="https://teachablemachine.withgoogle.com/models/jEBy9T4Vj">Logs</a></div>     
     </header>
 );
 
