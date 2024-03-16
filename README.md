@@ -1,5 +1,5 @@
-# Project Title
-Waste Watcher: "Your AI Guardian Against Litter - Keeping it Clean, Keeping it Green!"
+# Waste Watcher
+"Your AI Guardian Against Litter - Keeping it Clean, Keeping it Green!"
 ## Table of Contents
 
 - [Introduction](#introduction)
